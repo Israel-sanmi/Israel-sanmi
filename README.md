@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Israel-sanmi
 - 👀 I’m interested in web development, full stack. 
-- 🌱 I’m currently learning tailwindcss
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning REactjs
+- 💞️ I’m looking to collaborate on frontend React Projects
 - 📫 How to reach me adetomokunisrael2001@gmail.com
 
 <!---
