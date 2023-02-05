@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development, artificial intelligence. 
 - 🌱 I’m currently learning Web3, react-native
 - 💞️ I’m looking to collaborate on frontend React Projects.
-- 📫 How to reach me adetomokunisrael2001@gmail.com
+- 📫 How to reach me ilesanmiisrael@outlook.com
