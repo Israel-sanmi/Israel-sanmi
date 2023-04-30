@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Israel Ilesanmi
 - 👀 I’m interested in web development, artificial intelligence. 
-- 🌱 I’m currently learning Web3, react-native
-- 💞️ I’m looking to collaborate on frontend React Projects.
+- 🌱 I’m currently learning Frontend technologies 
+- 💞️ I’m looking to collaborate on frontend Projects.
 - 📫 How to reach me ilesanmiisrael@outlook.com
